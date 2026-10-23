@@ -1,0 +1,6 @@
+{
+  "name": "YOUNOVA",
+  "description": "Your AI. Your Universe. A sleek, professional black and purple AI workspace powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
